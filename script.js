@@ -1,5 +1,5 @@
 
-let P = 100000;
+let P = 50000;
 let r = 0.10;   
 let n = 1;     
 let t = 3;     
